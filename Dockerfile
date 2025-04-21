@@ -1,17 +1,17 @@
-# Use an official Python image (or Node, etc.)
+# Use official Python image
 FROM python:3.10
 
-# Set working directory
+# Set the working directory inside the container
 WORKDIR /app
 
-# Copy project files
+# Copy all files into the container
 COPY . /app
 
 # Install dependencies
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Expose port (change based on app config)
+# Expose port (change this if needed)
 EXPOSE 5000
 
-# Start the app (change based on your framework)
+# Run the app (adjust this based on your actual entry point)
 CMD ["python", "app.py"]
