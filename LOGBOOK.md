@@ -110,7 +110,7 @@
 
 ---
 
-### 🟩 **Weeks 11–16: 24 Mar – 29 Apr**  
+### 🟩 **Weeks 11–16: 24 Mar – Ongoing**  
 **Topic:** *System Optimization, Final Report & Presentation*  
 - Improved sensor stability and reduced data noise.  
 - Refined dashboard UI and AI model accuracy.  
@@ -124,5 +124,40 @@
 ✅ Prepared the project for next-stage implementation in controlled environments
 
 ---
+---
 
-**📌 Ready for demonstration and Phase 2 simulation-based testing.**
+## 🔁 Git Commit History
+
+### 📅 Commits on Apr 29, 2025
+- ✅ `Create LOGBOOK.md`  
+  **Author:** Prathumahajan-07 • Verified ✔️  
+  ⏱️ *now*
+
+---
+
+### 📅 Commits on Apr 21, 2025
+- 🛠️ `Create Jenkinsfile`  
+  **Author:** Prathumahajan-07 • Verified ✔️  
+  ⏱️ *last week*
+
+- 🔧 `Update Dockerfile`  
+  **Author:** Prathumahajan-07 • Verified ✔️  
+  ⏱️ *last week*
+
+- 📦 `Create Dockerfile`  
+  **Author:** Prathumahajan-07 • Verified ✔️  
+  ⏱️ *last week*
+
+---
+
+### 📅 Commits on Mar 3, 2025
+- 🎉 `Initial commit`  
+  **Author:** Prathumahajan-07 • Committed on Mar 3
+
+- 📝 `Update README.md`  
+  **Author:** Prathumahajan-07 • Verified ✔️  
+  ⏱️ *on Mar 3*
+
+- 📂 `Initial commit`  
+  **Author:** Prathumahajan-07 • Authored on Mar 3
+
